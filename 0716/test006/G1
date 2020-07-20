@@ -1,0 +1,1 @@
+gcc multi_thread_add.c -lpthread  -o multi_thread_add

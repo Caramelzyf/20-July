@@ -1,0 +1,1 @@
+gcc server.c common.c -o echo_server -lpthread
